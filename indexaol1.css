@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(0, 8, 10);
+}
+
+h1 {
+    text-align: center;
+}
+
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h8 {color: aliceblue;
+    text-align: center;
+}
+
+div {
+    background-color: antiquewhite;
+    margin-bottom: 120;
+}
